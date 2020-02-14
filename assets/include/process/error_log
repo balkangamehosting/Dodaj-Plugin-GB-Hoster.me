@@ -1,0 +1,79 @@
+[01-Aug-2019 14:38:56 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[01-Aug-2019 14:38:56 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[01-Aug-2019 14:38:56 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[01-Aug-2019 15:11:55 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[01-Aug-2019 15:11:55 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[01-Aug-2019 15:11:55 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 01:59:12 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 01:59:12 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 01:59:12 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:20:57 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:20:57 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:20:57 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:22:15 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:22:15 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:22:15 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:22:58 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:22:58 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:22:58 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:25:16 Europe/Belgrade] PHP Parse error:  syntax error, unexpected ')' in /home/gbhoster/plugins.gb-hoster.me/assets/include/process/register.php on line 56
+[02-Aug-2019 12:25:33 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:25:33 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:25:33 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:26:07 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:26:07 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:26:07 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:28:43 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:28:43 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:28:43 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:33:05 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:33:05 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:33:05 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:44:23 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:44:23 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:44:23 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 12:44:32 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 12:44:32 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 12:44:32 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[02-Aug-2019 17:36:08 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[02-Aug-2019 17:36:08 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[02-Aug-2019 17:36:08 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[03-Aug-2019 20:37:57 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[03-Aug-2019 20:37:57 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[03-Aug-2019 20:37:57 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[03-Aug-2019 20:43:11 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[03-Aug-2019 20:43:11 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[03-Aug-2019 20:43:11 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[03-Aug-2019 21:42:08 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[03-Aug-2019 21:42:08 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[03-Aug-2019 21:42:08 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[04-Aug-2019 01:58:39 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[04-Aug-2019 01:58:39 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[04-Aug-2019 01:58:39 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[04-Aug-2019 09:17:37 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[04-Aug-2019 09:17:37 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[04-Aug-2019 09:17:37 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[04-Aug-2019 12:15:28 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[04-Aug-2019 12:15:28 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[04-Aug-2019 12:15:28 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[04-Aug-2019 14:18:18 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[04-Aug-2019 14:18:18 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[04-Aug-2019 14:18:18 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[04-Aug-2019 15:42:51 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[04-Aug-2019 15:42:51 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[04-Aug-2019 15:42:51 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[04-Aug-2019 17:58:22 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[04-Aug-2019 17:58:22 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[04-Aug-2019 17:58:22 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[04-Aug-2019 23:03:39 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[04-Aug-2019 23:03:39 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[04-Aug-2019 23:03:39 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[05-Aug-2019 13:15:55 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[05-Aug-2019 13:15:55 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[05-Aug-2019 13:15:55 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[05-Aug-2019 15:36:34 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[05-Aug-2019 15:36:34 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[05-Aug-2019 15:36:34 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
+[07-Aug-2019 21:28:29 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 4
+[07-Aug-2019 21:28:29 Europe/Belgrade] PHP Notice:  Undefined index: logged_in in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 31
+[07-Aug-2019 21:28:29 Europe/Belgrade] PHP Notice:  Undefined index: user_id in /home/gbhoster/plugins.gb-hoster.me/assets/include/db_connect.php on line 96
